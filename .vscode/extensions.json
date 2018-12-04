@@ -1,0 +1,25 @@
+{
+  "recommendations": [
+    "formulahendry.auto-rename-tag",
+    "aaron-bond.better-comments",
+    "coenraads.bracket-pair-colorizer",
+    "streetsidesoftware.code-spell-checker",
+    "naumovs.color-highlight",
+    "spywhere.guides",
+    "oderwat.indent-rainbow",
+    "xabikos.javascriptsnippets",
+    "sdras.night-owl",
+    "techer.open-in-browser",
+    "esbenp.prettier-vscode",
+    "2gua.rainbow-brackets",
+    "stkb.rewrap",
+    "ms-vsliveshare.vsliveshare",
+    "umoxfo.vscode-w3cvalidation",
+    "smelukov.vscode-csstree",
+    "shinnn.stylelint",
+    "dbaeumer.vscode-eslint",
+    "pkief.material-icon-theme",
+    "donjayamanne.githistory",
+    "eamodio.gitlens"
+  ]
+}

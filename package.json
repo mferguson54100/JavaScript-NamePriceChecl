@@ -1,0 +1,34 @@
+{
+  "name": "misra-js-starter",
+  "version": "1.0.0",
+  "description": "An opinionated boilerplate for JS development by newer students.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SWIC-177/misra-js-starter.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "ES2015"
+  ],
+  "author": "Manav Misra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SWIC-177/misra-js-starter/issues"
+  },
+  "homepage": "https://github.com/SWIC-177/misra-js-starter#readme",
+  "devDependencies": {
+    "eslint": "^5.5.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-config-prettier": "^3.0.1",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-prettier": "^2.6.2",
+    "html-validator": "^3.0.6",
+    "prettier": "^1.14.2",
+    "stylelint": "^9.5.0",
+    "stylelint-config-standard": "^18.2.0"
+  }
+}
